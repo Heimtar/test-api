@@ -27,25 +27,25 @@
     {
       "id": "5",
       "title": "Игрушка Сеттер",
-      "cost": 65843,
+      "cost": 52843,
       "imageUrl": "/common/5.jpg"
     },
     {
       "id": "6",
       "title": "Игрушка Мопс",
-      "cost": 65843,
+      "cost": 22876,
       "imageUrl": "/common/6.jpg"
     },
     {
       "id": "7",
       "title": "Игрушка Маламут",
-      "cost": 65843,
+      "cost": 11033,
       "imageUrl": "/common/7.jpg"
     },
     {
       "id": "8",
       "title": "Игрушка Медведь",
-      "cost": 65843,
+      "cost": 12443,
       "imageUrl": "/common/8.jpg"
     }
   ],
@@ -60,7 +60,7 @@
     {
       "id": "5",
       "title": "Игрушка Сеттер",
-      "cost": 65843,
+      "cost": 52843,
       "imageUrl": "/common/5.jpg"
     },
     {
@@ -83,7 +83,7 @@
         {
           "id": "5",
           "title": "Игрушка Сеттер",
-          "cost": 65843,
+          "cost": 52843,
           "imageUrl": "/common/5.jpg"
         }
       ]
