@@ -34,19 +34,19 @@
       "id": "6",
       "title": "Игрушка Мопс",
       "cost": 65843,
-      "imageUrl": "/common/5.jpg"
+      "imageUrl": "/common/6.jpg"
     },
     {
       "id": "7",
       "title": "Игрушка Маламут",
       "cost": 65843,
-      "imageUrl": "/common/5.jpg"
+      "imageUrl": "/common/7.jpg"
     },
     {
       "id": "8",
       "title": "Игрушка Медведь",
       "cost": 65843,
-      "imageUrl": "/common/5.jpg"
+      "imageUrl": "/common/8.jpg"
     }
   ],
   "cart": [],
