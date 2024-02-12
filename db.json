@@ -2,48 +2,72 @@
   "items": [
     {
       "id": "1",
-      "title": "Хассашин - повелитель песков",
+      "title": "Игрушка Джек Рассел Терьер",
       "cost": 12434,
-      "imageUrl": "/common/1.bmp"
+      "imageUrl": "/common/1.jpeg"
     },
     {
       "id": "2",
-      "title": "Лан - обладательница клинков",
+      "title": "Игрушка Заяц",
       "cost": 13555,
-      "imageUrl": "/common/2.bmp"
+      "imageUrl": "/common/2.jpg"
     },
     {
       "id": "3",
-      "title": "Сколария - ученый из другого времени",
+      "title": "Игрушка Хаски",
       "cost": 15045,
-      "imageUrl": "/common/3.bmp"
+      "imageUrl": "/common/3.jpg"
     },
     {
       "id": "4",
-      "title": "Колдунья - наследница Картиан",
+      "title": "Игрушка Сиба Ину",
       "cost": 16548,
-      "imageUrl": "/common/4.bmp"
+      "imageUrl": "/common/4.jpg"
     },
     {
       "id": "5",
-      "title": "Темный рыцарь - жестокий воин старой цивилизации",
+      "title": "Игрушка Сеттер",
       "cost": 65843,
-      "imageUrl": "/common/5.bmp"
+      "imageUrl": "/common/5.jpg"
+    },
+    {
+      "id": "6",
+      "title": "Игрушка Мопс",
+      "cost": 65843,
+      "imageUrl": "/common/5.jpg"
+    },
+    {
+      "id": "7",
+      "title": "Игрушка Маламут",
+      "cost": 65843,
+      "imageUrl": "/common/5.jpg"
+    },
+    {
+      "id": "8",
+      "title": "Игрушка Медведь",
+      "cost": 65843,
+      "imageUrl": "/common/5.jpg"
     }
   ],
   "cart": [],
   "favorites": [
     {
       "id": "4",
-      "title": "Колдунья - наследница Картиан",
+      "title": "Игрушка Сиба Ину",
       "cost": 16548,
-      "imageUrl": "/common/4.bmp"
+      "imageUrl": "/common/4.jpg"
     },
     {
       "id": "5",
-      "title": "Темный рыцарь - жестокий воин старой цивилизации",
+      "title": "Игрушка Сеттер",
       "cost": 65843,
-      "imageUrl": "/common/5.bmp"
+      "imageUrl": "/common/5.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Игрушка Хаски",
+      "cost": 15045,
+      "imageUrl": "/common/3.jpg"
     }
   ],
   "orders": [
@@ -52,15 +76,15 @@
       "items": [
         {
           "id": "1",
-          "title": "Хассашин - повелитель песков",
+          "title": "Игрушка Джек Рассел Терьер",
           "cost": 12434,
-          "imageUrl": "/common/1.bmp"
+          "imageUrl": "/common/1.jpeg"
         },
         {
           "id": "5",
-          "title": "Темный рыцарь - жестокий воин старой цивилизации",
+          "title": "Игрушка Сеттер",
           "cost": 65843,
-          "imageUrl": "/common/5.bmp"
+          "imageUrl": "/common/5.jpg"
         }
       ]
     },
@@ -69,21 +93,38 @@
       "items": [
         {
           "id": "3",
-          "title": "Сколария - ученый из другого времени",
+          "title": "Игрушка Хаски",
           "cost": 15045,
-          "imageUrl": "/common/3.bmp"
+          "imageUrl": "/common/3.jpg"
         },
         {
           "id": "2",
-          "title": "Лан - обладательница клинков",
+          "title": "Игрушка Заяц",
           "cost": 13555,
-          "imageUrl": "/common/2.bmp"
+          "imageUrl": "/common/2.jpg"
         },
         {
           "id": "4",
-          "title": "Колдунья - наследница Картиан",
+          "title": "Игрушка Сиба Ину",
           "cost": 16548,
-          "imageUrl": "/common/4.bmp"
+          "imageUrl": "/common/4.jpg"
+        }
+      ]
+    },
+    {
+      "id": "c8f7",
+      "items": [
+        {
+          "id": "3",
+          "title": "Игрушка Хаски",
+          "cost": 15045,
+          "imageUrl": "/common/3.jpg"
+        },
+        {
+          "id": "4",
+          "title": "Игрушка Сиба Ину",
+          "cost": 16548,
+          "imageUrl": "/common/4.jpg"
         }
       ]
     }
